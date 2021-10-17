@@ -25,3 +25,11 @@ To acces this project, you need to clone it using these steps;
 3. Type `$ git clone https://github.com/RobbinGIT/GitSearchProfile.git`
 4. `Enter` to create your local clone.
     * This will clone the repositoty into your local folder in your laptop.
+
+### Technologies Used 
+
+1. HTML(Hypertext Mark-up Language)
+2. CSS (Cascading Style Sheet)
+3. Typescript
+4. Javascript
+3. Git
