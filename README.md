@@ -26,7 +26,7 @@ To acces this project, you need to clone it using these steps;
 4. `Enter` to create your local clone.
     * This will clone the repositoty into your local folder in your laptop.
 
-### Technologies Used 
+### Technologies Used and languages used
 
 1. HTML(Hypertext Mark-up Language)
 2. CSS (Cascading Style Sheet)
