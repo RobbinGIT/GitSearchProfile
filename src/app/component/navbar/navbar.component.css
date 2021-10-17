@@ -1,0 +1,18 @@
+.navbar{
+    background: rgb(22,100,111);
+    background: linear-gradient(90deg, rgba(22,100,111,1) 11%, rgba(0,0,0,1) 89%);
+}
+.navbar h2{
+    color: white;
+    font-family: monospace;
+    font-weight: bolder;
+}
+.menu-left{
+    margin-left: 80%;
+    font-weight: bolder;
+    font-size: x-large;
+}
+.menu-left li a{
+    color: white;
+}
+

@@ -1,0 +1,6 @@
+footer{
+    background: rgb(22,100,111);
+    background: linear-gradient(90deg, rgba(22,100,111,1) 11%, rgba(0,0,0,1) 89%);
+    font-weight: bolder;
+    font-size: x-large;
+  }
