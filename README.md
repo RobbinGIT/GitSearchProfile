@@ -43,4 +43,6 @@ This project is under the  [MIT](LICENSE) licence:<br>
 
 ### Support
 
+For support send me Email to robbingithimbo@gmail.com
+
 Copyright (c) 2021 Robbin Mwangi Githimbo
