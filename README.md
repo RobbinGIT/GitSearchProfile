@@ -41,4 +41,6 @@ Go to  [live](https://robbingit.github.io/GitSearchProfile/) site
 ### Licence
 This project is under the  [MIT](LICENSE) licence:<br>
 
+### Support
+
 Copyright (c) 2021 Robbin Mwangi Githimbo
