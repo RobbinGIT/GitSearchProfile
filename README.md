@@ -11,6 +11,7 @@ The following are requirements in order to continue....
 
 * Install a text editor on your computer (Preferably Visual studio code)
 * You must have git installed on your computer in order to use it.
+* You also need node and angular installed in your computer.
 * Have working knowledge of the git commands and prerequisites.
 * You can run the following command to install git in you computer;
    -  Open terminal for linux or command prompt for windows 
