@@ -39,6 +39,7 @@ To acces this project, you need to clone it using these steps;
 Go to  [live](https://robbingit.github.io/GitSearchProfile/) site
 
 ### Licence
+
 This project is under the  [MIT](LICENSE) licence:<br>
 
 ### Support
